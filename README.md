@@ -1,2 +1,4 @@
-# my-first-repository-21-07-26
-This Is My Damn First GitHub Repository
+HELLO GITS,
+I'm Thalha Shukry (A Student) From Sri Lanka, Who is willing to learn GitHub and Ai.
+If there's anyone who is willing to help me just drop an email (build.thalha@gmail.com)
+I'm Waiting..........
