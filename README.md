@@ -1,4 +1,31 @@
-HELLO GITS,
-I'm Thalha Shukry (A Student) From Sri Lanka, Who is willing to learn GitHub and Ai.
-If there's anyone who is willing to help me just drop an email (build.thalha@gmail.com)
-I'm Waiting..........
+# AI Experiments
+
+Welcome! 👋
+
+This repository documents my journey of learning artificial intelligence, machine learning, and large language models.
+
+## Goals
+
+- Learn Python for AI
+- Understand machine learning fundamentals
+- Build AI projects
+- Explore LLMs and AI agents
+- Practice prompt engineering
+- Learn Git and GitHub
+
+## Projects
+
+Coming soon...
+
+## Learning Log
+
+- Started learning GitHub
+- Created my first AI repository
+
+## Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code
+- OpenAI APIs (future)
